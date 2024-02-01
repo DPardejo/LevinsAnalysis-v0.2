@@ -1,11 +1,17 @@
 Package: LevinsAnalysis
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Title: R Package for LevinsAnalysis
+Version: 0.2.0
+Author: Author: Daniel Pereira, Marta Rocchi, Stefania Favilla, Antonio Bodini, Marco Scotti
+Maintainer: Daniel Pereira, Marco Scotti <daniel_pardejo@hotmail.com , marcoscot@gmail.com>
+Description: The LevinsAnalysis package is a collection of functions to analyse
+   the structure and nodal interaction levels and single-paths information 
+   present within a stable Ecological Community Network. It allows to compute predictions 
+   about the response of variables to press perturbations in one or more entry points 
+   in the Community Network using the loop analysis formula. It makes so using an 
+   innovative quantitative methodology to analyse those results and to compute a 
+   graphical visualization of both the Ecological Community Network and the Table 
+   of Predictions.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
