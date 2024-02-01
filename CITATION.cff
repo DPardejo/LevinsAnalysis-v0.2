@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pereira"
+  given-names: "Daniel"
+  orcid: "https://orcid.org/0000-0003-3396-6402"
+- family-names: "Rochi"
+  given-names: "Marta"
+- family-names: "Favilla"
+  given-names: "Stefania"
+- family-names: "Bodini"
+  given-names: "Antonio"
+- family-names: "Scotti"
+  given-names: "Marco"
+title: "LevinsAnalysis R package"
+version: 0.2
+date-released: 2020-03-13
+url: "https://github.com/DPardejo/LevinsAnalysis-v0.2"
